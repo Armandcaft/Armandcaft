@@ -2,7 +2,7 @@
 
 > *"Code, debug, innovate, repeat!"*
 
-[![GitHub](https://img.shields.io/badge/Armandcaft-grey?logo=github&logoColor=f5f5f5)](https://github.com/Armandcaft)[![LinkedIn](https://img.shields.io/badge/in-Christian_Armand-blue??style=for-the-badge&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/christian-armand-tchuente-2093461b6/)
+[![GitHub](https://img.shields.io/badge/Armandcaft-grey?logo=github&logoColor=f5f5f5)](https://github.com/Armandcaft)[![LinkedIn](https://img.shields.io/badge/in-Christian_Armand-blue?style=for-the-badge&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/christian-armand-tchuente-2093461b6/)
 
 ---
 
@@ -11,7 +11,7 @@
 - **🔭 Currently working on:** Microservices with .NET and Mailgun integration 🌐
 - **🌱 Learning:** Advanced Azure DevOps pipelines and automation 🤖
 - **📚 Exploring:** New frontiers in React and Spring Boot 🚀
-- **✨ Fun Fact:** I'm bilingual! 🇫🇷 🇬🇧 Learning German, Spanish, and Japanese too 🎌
+- **✨ Fun Fact:** I'm bilingual in French and English! 🇫🇷 🇬🇧 Learning German (B1), Spanish (C2), and Japanese (C2) too 🎌
 
 ---
 
