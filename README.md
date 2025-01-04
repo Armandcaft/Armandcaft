@@ -2,7 +2,7 @@
 
 > *"Code, debug, innovate, repeat!"*
 
-[![GitHub](https://img.shields.io/badge/Armandcaft-grey?logo=github&logoColor=f5f5f5)](https://github.com/Armandcaft)[![LinkedIn](https://img.shields.io/badge/in-Christian_Armand-blue?style=for-the-badge&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/christian-armand-tchuente-2093461b6/)
+[![GitHub](https://img.shields.io/badge/Armandcaft-grey?logo=github&logoColor=f5f5f5)](https://github.com/Armandcaft)[![LinkedIn](https://img.shields.io/badge/in-Christian_Armand-blue??style=for-the-badge&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/christian-armand-tchuente-2093461b6/)
 
 ---
 
