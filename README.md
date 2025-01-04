@@ -27,6 +27,18 @@ When I'm not coding, you can find me exploring puzzles 🧩, gaming 🎮, or lea
 
 ---
 
+### 💡 My Coding Philosophy
+
+Let's be real: coding can sometimes feel like this...
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+But hey, that's just a typical Tuesday for developers, right? 😅🔥
+
+**The good news?** After the fire's out, the bugs are squashed, and the build finally runs, there's no better feeling! 🚀✨
+
+---
+
 ### 📈 Stats
 
 ![Armandcaft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandcaft&show_icons=true&theme=dracula)
